@@ -3,7 +3,7 @@ UI Clone - Google (Homepage)
 </h1>
 
 <p align="center"><a href="https://google.com">Google Homepage</a> UI clone for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist.</p>
+<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the Rocketseat's YouTube playlist.</p>
 
 <hr>
 
